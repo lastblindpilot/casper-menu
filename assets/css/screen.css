@@ -474,7 +474,7 @@ margin on the iframe, cause it breaks stuff. */
 .main-header {
     position: relative;
     display: table;
-    width: 100%;
+    width: 45%;
     height: 100%;
     margin-bottom: 5rem;
     text-align: center;
