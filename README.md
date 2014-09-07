@@ -1,8 +1,12 @@
-# Casper
+# Casper Menu
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A variation of the default theme for [Ghost](http://github.com/tryghost/ghost/). To download the original relase, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+To download the latest Casper Menu release, visit my [releases](https://github.com/jbfriedrich/casper-menu/releases) page.
+
+## No Cover Image
+
+This branch has not 100% cover image on the first page. Instead it uses a max-height of 45% on all pages.
 
 ## Copyright & License
 
